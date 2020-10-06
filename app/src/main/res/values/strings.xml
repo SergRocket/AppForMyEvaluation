@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">AppForMyEvaluation</string>
+    <string name="mainLogo">Rockettester</string>
+    <string name="FLOWERS">FRLOWERS</string>
+    <string name="MOTORCYCLES">MOTORCYCLES</string>
+    <string name="TRIPS">TRIPS</string>
+    <string name="flowerScreenName">This screen is about flowers</string>
+    <string name="motoScrenName">This screen is about moto</string>
+    <string name="tripScreenName">Ths screen is about trips</string>
+    <string name="Rose">Rose</string>
+    <string name="Romaska">Romashka</string>
+    <string name="Culbaba">Culbaba</string>
+    <string name="Fialka">Fialka</string>
+    <string name="Liliya">Liliya</string>
+    <string name="Suzuki">SUZUKI</string>
+    <string name="Kawasaki">KAWASAKI</string>
+    <string name="Honda">HONDA</string>
+    <string name="Yamaha">YAMAHA</string>
+    <string name="Aprilia">APRILIA</string>
+    <string name="Danmark">DENMARK</string>
+    <string name="Poland">POLAND</string>
+    <string name="Germany">GERMANY</string>
+    <string name="Austria">AUSTRIA</string>
+    <string name="Norway">NORWAY</string>
+    <string name="RomashkaDescr">This screen is about Romashka</string>
+    <string name="LiliyaDescr">This screen is about Lilya</string>
+    <string name="RoseDescr">This screen is about Rose</string>
+    <string name="FialkaDescr">This screen is about Fialka</string>
+    <string name="ColbabaDescr">This screen is about Colbaba</string>
+    <string name="RomViki"> рід однорічних дуже розгалужених рослин з сильним ароматичним запахом
+        з родини айстрові.</string>
+    <string name="RoseViki">рід і культурна форма рослин родини розових (дикорослі — див. Шипшина)
+        , кущі до 2 метрів заввишки.</string>
+    <string name="FialkaViki">рід квіткових рослин родини фіалкових, що містить від 200—500 видів
+        у всьому світі (докладніше див. Список видів роду фіалка), переважно в помірних широтах
+        Північної Півкулі</string>
+    <string name="ColbabaViki">рід багаторічних травянистих рослин родини айстрові
+        (лат. Asteraceae).</string>
+    <string name="LilaViki"> рід багаторічних цибулинних рослин родини лілійних.</string>
+    <string name="ApriliaViki">Aprilia is an Italian motorcycle manufacturer founded immediately
+        after World War II in Noale, Italy by Alberto Beggio</string>
+    <string name="HondaViki">Honda Motor Company, Ltd. (Japanese: 本田技研工業株式会社,
+        Hepburn: Honda Giken Kōgyō KK, IPA: [honda]</string>
+    <string name="KawaViki">Kawasaki motorcycles are manufactured by the Motorcycle Engine
+        division of Kawasaki Heavy Industries at plants in Japan, Michigan, Philippines, India</string>
+    <string name="SuzukiViki">Suzuki Motor Corporation (Japanese: スズキ株式会社, Hepburn: Suzuki Kabushiki-Kaisha)
+        is a Japanese multinational corporation headquartered in Minami-ku, Hamamatsu.</string>
+    <string name="YamahaViki">Yamaha Corporation (ヤマハ株式会社, Yamaha Kabushiki Gaisha,
+        Japanese pronunciation: [jamaha]) is a Japanese multinational corporation and conglomerate
+        with a very wide range of products and services.</string>
+    <string name="AustriaViki">officially the Republic of Austria (German: Republik Österreich,
+        About this soundlisten (help·info)), is a landlocked East Alpine country in the southern
+        part of Central Europe</string>
+    <string name="DenmarkViki">officially the Kingdom of Denmark,[N 10] is a Nordic country in
+        Northern Europe.</string>
+    <string name="PolandViki">officially the Republic of Poland (Polish: Rzeczpospolita Polska[c]
+        is a country located in Central Europe.</string>
+    <string name="GermanViki">officially the Federal Republic of Germany
+        is a country in Central and Western Europe. </string>
+    <string name="NorwayViki">officially the Kingdom of Norway, is a Nordic country in
+        Northern Europe</string>
+
+</resources>

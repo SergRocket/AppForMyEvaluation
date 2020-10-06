@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screenBackgroung"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="151dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="148dp"
+        android:layout_marginTop="346dp"
+        android:layout_marginEnd="148dp"
+        android:layout_marginBottom="450dp"
+        android:background="@color/screenBackgroung"
+        android:fontFamily="cursive"
+        android:text="@string/mainLogo"
+        android:textColor="@android:color/widget_edittext_dark"
+        android:textColorHighlight="#003C2626"
+        android:textSize="32sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.222"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.29" />
+
+    <Button
+        android:id="@+id/button"
+        android:onClick="FlowerRedirect"
+        android:layout_width="100dp"
+        android:layout_height="62dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="59dp"
+        android:background="@color/ButtonBackgroung"
+        android:text="@string/FLOWERS"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button2"
+        android:onClick="MotoRedirect"
+        android:layout_width="132dp"
+        android:layout_height="62dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="59dp"
+        android:background="@color/ButtonBackgroung"
+        android:text="@string/MOTORCYCLES"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button" />
+
+    <Button
+        android:id="@+id/button3"
+        android:onClick="TripRedirect"
+        android:layout_width="100dp"
+        android:layout_height="62dp"
+        android:layout_marginStart="34dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="59dp"
+        android:background="@color/ButtonBackgroung"
+        android:text="@string/TRIPS"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button2" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

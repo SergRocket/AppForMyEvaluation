@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appformyevaluation">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Main2ActivityGermany"></activity>
+        <activity android:name=".Main2ActivityNorway" />
+        <activity android:name=".Main2ActivityAustria" />
+        <activity android:name=".Main2ActivityDenmark" />
+        <activity android:name=".Main2ActivityPoland" />
+        <activity android:name=".Main2ActivityAprilia" />
+        <activity android:name=".Main2ActivityYamaha" />
+        <activity android:name=".Main2ActivityHonda" />
+        <activity android:name=".Main2ActivityKawasaki" />
+        <activity android:name=".Main2ActivitySuzuki" />
+        <activity android:name=".Main2ActivityColbaba" />
+        <activity android:name=".Main2ActivityFialka" />
+        <activity android:name=".Main2ActivityRose" />
+        <activity android:name=".Main2ActivityLilliya" />
+        <activity android:name=".Main2ActivityRomashka" />
+        <activity android:name=".Main2ActivityTRIP" />
+        <activity android:name=".Main2ActivityMOTO" />
+        <activity android:name=".Main2ActivityFLOWER" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
